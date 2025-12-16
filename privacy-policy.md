@@ -57,7 +57,7 @@
   <ul>
     <li>Task-Ninja is intended for users of any age.</li>
     <li>Providers must be legally capable of offering services in accordance with local laws and regulations.</li>
-    <li>We do not knowingly collect personal information from children.</li>
+    <li>We do not knowingly collect personal information from children under 13.</li>
   </ul>
 
   <h2>Data Security</h2>
@@ -67,6 +67,6 @@
   <p>We may update this Privacy Policy at any time. Continued use of the app indicates acceptance of any updates. Last updated: December 16, 2025.</p>
 
   <h2>Contact Information</h2>
-  <p>If you have questions or concerns about this Privacy Policy, please contact us at: <a href="mailto:support@task-ninja.com">support@task-ninja.com</a></p>
+  <p>If you have questions or concerns about this Privacy Policy, please contact us at: <a href="mailto:grajneesh001@gmail.com">grajneesh001@gmail.com</a></p>
 </body>
 </html>
