@@ -23,27 +23,27 @@
 
     <h2>Information We Collect</h2>
     <ul>
-      <li>Personal information such as First Name, Last Name, Email, Mobile number, and Password collected during signup.</li>
-      <li>Role selection: User or Provider.</li>
-      <li>Provider service information, including categories (e.g., electrician, painting).</li>
-      <li>Location data to display nearby service providers.</li>
-      <li>Booking information: contact details shared between users and providers once a booking is accepted.</li>
-      <li>App usage data to improve performance and user experience.</li>
+      <li>Personal information: First Name, Last Name, Email, Mobile number, Password (during signup)</li>
+      <li>Role selection: User or Provider</li>
+      <li>Provider service info (category, subcategory, e.g., electrician → light fitting)</li>
+      <li>Location data to display nearby service providers</li>
+      <li>Booking information: contact details shared between users and providers once a booking is accepted</li>
+      <li>App usage data to improve performance and user experience</li>
     </ul>
 
     <h2>How We Use Your Information</h2>
     <ul>
-      <li>To connect users with nearby providers based on category, location, and services.</li>
-      <li>To display service requests and manage provider listings.</li>
-      <li>To enhance app security, performance, and customer support.</li>
-      <li>To manage subscriptions and service availability for providers.</li>
+      <li>To connect users with nearby providers based on category, location, and services</li>
+      <li>To display service requests and manage provider listings</li>
+      <li>To enhance app security, performance, and customer support</li>
+      <li>To manage subscriptions and service availability for providers</li>
     </ul>
 
     <h2>Information Sharing</h2>
     <ul>
-      <li>Booking contact details are shared only between the user and the provider.</li>
-      <li>Task-Ninja is an intermediary platform; we are not responsible for service quality, payments, or communication between users and providers.</li>
-      <li>We do not sell, rent, or trade your personal information to third parties.</li>
+      <li>Booking contact details are shared only between the user and provider</li>
+      <li>Task-Ninja is an intermediary platform; we are not responsible for service quality, payments, or communication</li>
+      <li>We do not sell, rent, or trade your personal information to third parties</li>
     </ul>
 
     <h2>Location Data</h2>
@@ -51,22 +51,26 @@
 
     <h2>User Responsibilities</h2>
     <ul>
-      <li>Maintain confidentiality of account credentials.</li>
-      <li>Handle communication, agreements, and payments directly with service providers.</li>
+      <li>Maintain confidentiality of account credentials</li>
+      <li>Handle communication, agreements, and payments directly with service providers</li>
     </ul>
 
     <h2>Subscription and Payments</h2>
     <ul>
-      <li>The app is free for users.</li>
-      <li>Providers currently receive a free period to add services. Subscriptions will be required in the future to maintain service listings and bookings.</li>
-      <li>Subscription plans may include weekly, monthly, quarterly, or yearly options via Razorpay.</li>
+      <li>The app is free for users</li>
+      <li>Providers currently receive a free period to add services; subscriptions required in future</li>
+      <li>Subscription plans may include weekly, monthly, quarterly, or yearly via Razorpay</li>
     </ul>
 
     <h2>Delete Account</h2>
-    <p>Users and providers can delete their account from the app only if no active or pending bookings exist. Upon deletion, all personal data, booking history, and service details will be permanently removed, except where retention is required by law.</p>
+    <p>Users and providers can delete their account only if no active or pending bookings exist. All personal data, booking history, and service details will be permanently removed, except where retention is required by law.</p>
 
     <h2>Age Requirements</h2>
-    <p>Task-Ninja is intended for users of all ages. Providers must comply with local laws. We do not knowingly collect data from children under 13.</p>
+    <ul>
+      <li>Task-Ninja is intended for users of all ages</li>
+      <li>Providers must comply with local laws</li>
+      <li>We do not knowingly collect data from children under 13</li>
+    </ul>
 
     <h2>Data Security</h2>
     <p>We implement standard security measures to protect user data. In case of a breach, appropriate actions will be taken.</p>
@@ -75,7 +79,7 @@
     <p>We may update this Privacy Policy at any time. Continued use of Task-Ninja constitutes acceptance of any changes.</p>
 
     <h2>Contact Information</h2>
-    <p>Email: <strong>grajneesh001@gmail.com</strong></p>
+    <p><strong>Email:</strong> grajneesh001@gmail.com</p>
 
     <footer>
       <p>Last Updated: December 2025</p>
