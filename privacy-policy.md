@@ -79,7 +79,7 @@
     <p>We may update this Privacy Policy at any time. Continued use of Task-Ninja constitutes acceptance of any changes.</p>
 
     <h2>Contact Information</h2>
-    <p><strong>Email:</strong> grajneesh001@gmail.com</p>
+    <p><strong>Email:</strong> taskninja.help@gmail.com</p>
 
     <footer>
       <p>Last Updated: December 2025</p>
