@@ -86,7 +86,7 @@
       If you are unable to delete your account or face any technical issues,
       please contact us at:
       <br>
-      <strong>Email:</strong> grajneesh001@gmail.com
+      <strong>Email:</strong> taskninja.help@gmail.com
     </p>
 
     <footer>
