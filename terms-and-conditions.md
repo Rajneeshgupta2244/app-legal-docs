@@ -1,59 +1,64 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Task-Ninja Terms & Conditions</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; background: #f7f7f7; margin: 0; padding: 0; }
-    .container { max-width: 800px; margin: 40px auto; background: #fff; padding: 24px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
-    h1, h2 { color: #222; }
-    h1 { font-size: 24px; margin-bottom: 16px; }
-    h2 { font-size: 18px; margin-top: 24px; }
-    p, li { font-size: 15px; }
-    ul { margin-left: 20px; }
-    footer { font-size: 13px; color: #666; margin-top: 32px; }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Task-Ninja Terms & Conditions</title>
+<style>
+body{font-family:Arial,sans-serif;background:#f5f5f5;margin:0;padding:0;color:#333}
+.container{max-width:900px;margin:40px auto;background:#fff;padding:25px;border-radius:8px;box-shadow:0 2px 10px rgba(0,0,0,0.1)}
+h1,h2{color:#111}
+h1{font-size:26px}
+h2{margin-top:25px;font-size:18px}
+p,li{font-size:14px;line-height:1.6}
+ul{margin-left:20px}
+</style>
 </head>
 <body>
-  <div class="container">
-    <h1>Terms & Conditions – Task-Ninja</h1>
+<div class="container">
+<h1>Terms & Conditions – Task-Ninja</h1>
 
-    <p>These Terms & Conditions govern your use of Task-Ninja. By using the app, you agree to be bound by these terms. If you do not agree, please stop using the app.</p>
+<h2>Platform Nature</h2>
+<p>Task-Ninja is only a platform connecting users and providers.</p>
 
-    <h2>Platform Purpose</h2>
-    <p>Task-Ninja is a platform connecting users with service providers. We do not provide, supervise, verify, or guarantee services listed on the app.</p>
+<h2>User & Provider Responsibility</h2>
+<ul>
+<li>Users and providers are responsible for their actions</li>
+<li>All dealings happen directly between them</li>
+</ul>
 
-    <h2>Free Usage for Users</h2>
-    <p>The app is completely free for users. Users can browse services, search nearby providers, and contact them without charges.</p>
+<h2>Provider Services</h2>
+<ul>
+<li>Unlimited services allowed</li>
+<li>Each service has its own subscription</li>
+<li>Free trial available</li>
+<li>Service deactivates after expiry</li>
+</ul>
 
-    <h2>Service Providers & Free Trial</h2>
-    <p>Providers receive a free trial period to add services. After the trial, an active subscription will be required to maintain visibility and bookings.</p>
+<h2>Payments</h2>
+<ul>
+<li>Users use app free</li>
+<li>Providers pay subscription</li>
+<li>Payments via Razorpay</li>
+<li>All payments are non-refundable</li>
+</ul>
 
-    <h2>Information Accuracy</h2>
-    <p>Users and providers must provide accurate and complete information. False information may result in account suspension or termination.</p>
+<h2>Service Visibility</h2>
+<p>Only active services are visible to users.</p>
 
-    <h2>Direct Communication</h2>
-    <p>The app allows users and providers to share contact details for service-related communication. Task-Ninja is not responsible for any agreements, payments, or interactions.</p>
+<h2>Account Rules</h2>
+<ul>
+<li>Provide correct information</li>
+<li>Fraud accounts may be banned</li>
+</ul>
 
-    <h2>Platform Disclaimer & Liability</h2>
-    <p>Task-Ninja acts only as an intermediary. We are not liable for service quality, disputes, delays, payments, or outcomes between users and providers.</p>
+<h2>Limitation of Liability</h2>
+<p>We are not responsible for services, payments, or disputes.</p>
 
-    <h2>Prohibited Activities</h2>
-    <p>Misuse, fake profiles, fraudulent listings, harassment, or illegal activity is strictly prohibited.</p>
+<h2>Termination</h2>
+<p>We may suspend accounts anytime.</p>
 
-    <h2>Location-Based Services</h2>
-    <p>Provider visibility depends on device GPS and location permissions. Accuracy may vary based on user device settings.</p>
-
-    <h2>Account Suspension</h2>
-    <p>We may suspend or terminate accounts violating these Terms without notice.</p>
-
-    <h2>Changes to Terms</h2>
-    <p>We may update these Terms & Conditions at any time. Continued use constitutes acceptance of updated terms.</p>
-
-    <footer>
-      <p>Last Updated: December 2025</p>
-    </footer>
-  </div>
+<h2>Contact</h2>
+<p>Email: taskninja.help@gmail.com</p>
+</div>
 </body>
 </html>
