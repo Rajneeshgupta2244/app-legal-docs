@@ -1,89 +1,58 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Task-Ninja Privacy Policy</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; background: #f7f7f7; margin: 0; padding: 0; }
-    .container { max-width: 800px; margin: 40px auto; background: #fff; padding: 24px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
-    h1, h2 { color: #222; }
-    h1 { font-size: 24px; margin-bottom: 16px; }
-    h2 { font-size: 18px; margin-top: 24px; }
-    p, li { font-size: 15px; }
-    ul { margin-left: 20px; }
-    footer { font-size: 13px; color: #666; margin-top: 32px; }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Task-Ninja Privacy Policy</title>
+<style>
+body{font-family:Arial,sans-serif;background:#f5f5f5;margin:0;padding:0;color:#333}
+.container{max-width:900px;margin:40px auto;background:#fff;padding:25px;border-radius:8px;box-shadow:0 2px 10px rgba(0,0,0,0.1)}
+h1,h2{color:#111}
+h1{font-size:26px}
+h2{margin-top:25px;font-size:18px}
+p,li{font-size:14px;line-height:1.6}
+ul{margin-left:20px}
+</style>
 </head>
 <body>
-  <div class="container">
-    <h1>Privacy Policy – Task-Ninja</h1>
+<div class="container">
+<h1>Privacy Policy – Task-Ninja</h1>
+<p>Task-Ninja (“we”, “our”, “platform”) is committed to protecting your privacy.</p>
 
-    <p>Task-Ninja is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our app. By using Task-Ninja, you agree to the practices described herein.</p>
+<h2>Information We Collect</h2>
+<ul>
+<li>Name, email, mobile number</li>
+<li>Account credentials (securely stored)</li>
+<li>User role (User or Provider)</li>
+<li>Service details added by providers</li>
+<li>Location data</li>
+<li>Booking information</li>
+</ul>
 
-    <h2>Information We Collect</h2>
-    <ul>
-      <li>Personal information: First Name, Last Name, Email, Mobile number, Password (during signup)</li>
-      <li>Role selection: User or Provider</li>
-      <li>Provider service info (category, subcategory, e.g., electrician → light fitting)</li>
-      <li>Location data to display nearby service providers</li>
-      <li>Booking information: contact details shared between users and providers once a booking is accepted</li>
-      <li>App usage data to improve performance and user experience</li>
-    </ul>
+<h2>How We Use Data</h2>
+<ul>
+<li>Connect users with providers</li>
+<li>Manage bookings & services</li>
+<li>Improve performance</li>
+<li>Manage subscriptions</li>
+</ul>
 
-    <h2>How We Use Your Information</h2>
-    <ul>
-      <li>To connect users with nearby providers based on category, location, and services</li>
-      <li>To display service requests and manage provider listings</li>
-      <li>To enhance app security, performance, and customer support</li>
-      <li>To manage subscriptions and service availability for providers</li>
-    </ul>
+<h2>Third-Party Services</h2>
+<p>We use Firebase and Razorpay. We do not store payment details.</p>
 
-    <h2>Information Sharing</h2>
-    <ul>
-      <li>Booking contact details are shared only between the user and provider</li>
-      <li>Task-Ninja is an intermediary platform; we are not responsible for service quality, payments, or communication</li>
-      <li>We do not sell, rent, or trade your personal information to third parties</li>
-    </ul>
+<h2>Data Sharing</h2>
+<p>Data is shared only between users and providers. We do not sell data.</p>
 
-    <h2>Location Data</h2>
-    <p>Location data is collected solely for app functionality. Users must allow location access for the app to function. Location is not shared with third parties for marketing.</p>
+<h2>Data Retention</h2>
+<p>We may retain data for legal and fraud prevention purposes.</p>
 
-    <h2>User Responsibilities</h2>
-    <ul>
-      <li>Maintain confidentiality of account credentials</li>
-      <li>Handle communication, agreements, and payments directly with service providers</li>
-    </ul>
+<h2>User Rights</h2>
+<p>You can request account or data deletion anytime.</p>
 
-    <h2>Subscription and Payments</h2>
-    <ul>
-      <li>The app is free for users</li>
-      <li>Providers currently receive a free period to add services; subscriptions required in future</li>
-      <li>Subscription plans may include weekly, monthly, quarterly, or yearly via Razorpay</li>
-    </ul>
+<h2>Security</h2>
+<p>We use standard security practices.</p>
 
-    <h2>Delete Account</h2>
-    <p>Users and providers can delete their account only if no active or pending bookings exist. All personal data, booking history, and service details will be permanently removed, except where retention is required by law.</p>
-
-    <h2>Age Requirements</h2>
-    <ul>
-      <li>Task-Ninja is intended for users of all ages</li>
-      <li>Providers must comply with local laws</li>
-      <li>We do not knowingly collect data from children under 13</li>
-    </ul>
-
-    <h2>Data Security</h2>
-    <p>We implement standard security measures to protect user data. In case of a breach, appropriate actions will be taken.</p>
-
-    <h2>Changes to This Policy</h2>
-    <p>We may update this Privacy Policy at any time. Continued use of Task-Ninja constitutes acceptance of any changes.</p>
-
-    <h2>Contact Information</h2>
-    <p><strong>Email:</strong> taskninja.help@gmail.com</p>
-
-    <footer>
-      <p>Last Updated: December 2025</p>
-    </footer>
-  </div>
+<h2>Contact</h2>
+<p>Email: taskninja.help@gmail.com</p>
+</div>
 </body>
 </html>
