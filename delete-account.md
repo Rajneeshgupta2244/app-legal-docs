@@ -4,67 +4,19 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Delete Account - Task-Ninja</title>
-
 <style>
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    background:#f7f7f7;
-    color:#333;
-    margin:0;
-    padding:0;
-}
-
-.container{
-    max-width:800px;
-    margin:40px auto;
-    background:#fff;
-    padding:24px;
-    border-radius:8px;
-    box-shadow:0 2px 8px rgba(0,0,0,0.08);
-}
-
-h1{
-    font-size:24px;
-}
-
-h2{
-    font-size:18px;
-    margin-top:24px;
-}
-
-p,li{
-    font-size:15px;
-    line-height:1.7;
-}
-
-ul{
-    padding-left:20px;
-}
-
-footer{
-    margin-top:30px;
-    color:#666;
-    font-size:13px;
-}
+body{font-family:Arial,Helvetica,sans-serif;background:#f7f7f7;color:#333;margin:0}
+.container{max-width:800px;margin:40px auto;background:#fff;padding:24px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+h1{font-size:24px}h2{font-size:18px;margin-top:24px}p,li{font-size:15px;line-height:1.7}ul,ol{padding-left:20px}footer{margin-top:30px;color:#666;font-size:13px}
 </style>
-
 </head>
 <body>
-
 <div class="container">
-
 <h1>Delete Account - Task-Ninja</h1>
 
-<p>
-Task-Ninja allows users and service providers to permanently delete their accounts directly from within the application.
-</p>
+<p>Task-Ninja allows users and verified service providers to request account deletion directly from within the application.</p>
 
 <h2>How to Delete Your Account</h2>
-
-<p>
-Follow these steps:
-</p>
-
 <ol>
 <li>Open the Task-Ninja application.</li>
 <li>Go to <strong>Settings</strong>.</li>
@@ -73,84 +25,47 @@ Follow these steps:
 </ol>
 
 <h2>Conditions for Account Deletion</h2>
-
 <ul>
-<li>Account deletion may not be available while active, accepted, pending, incomplete, or unresolved bookings exist.</li>
-
-<li>Any ongoing booking or service request must be completed before account deletion can be processed.</li>
-
-<li>Task-Ninja may restrict account deletion where necessary for security, fraud prevention, legal compliance, or platform integrity.</li>
+<li>Users and providers can request account deletion directly from the application.</li>
+<li>Account deletion may be processed as a soft deletion to help prevent fraud, duplicate registrations, repeated free-trial misuse and abuse of platform features.</li>
+<li>Task-Ninja may delay, restrict or refuse deletion where required for legal compliance, security, fraud prevention or investigation of suspicious activity.</li>
 </ul>
 
 <h2>What Happens After Deletion</h2>
-
 <ul>
-<li>Your account will be permanently deleted and will no longer be accessible through the platform.</li>
-
-<li>Your profile will no longer be visible to other users or providers.</li>
-
-<li>You will lose access to your account and related platform features.</li>
-
-<li>You may create a new account in the future, subject to Task-Ninja policies, verification requirements, and platform rules.</li>
+<li>Your account will no longer be accessible.</li>
+<li>Your profile and service listings (if any) will no longer be visible on the platform.</li>
+<li>You will lose access to your account and platform features.</li>
+<li>Creating a new account in the future remains subject to Task-Ninja policies and verification requirements.</li>
 </ul>
+
+<h2>Provider Accounts</h2>
+<p>If you are registered as a service provider, deleting your account removes your service listings from public visibility. Any applicable subscription remains subject to the relevant subscription terms.</p>
 
 <h2>Data Retention</h2>
-
-<p>
-Even after account deletion, Task-Ninja may retain certain information, records, documents, verification data, booking history, transaction records, security logs, communication records, and technical records for legitimate business purposes including:
-</p>
-
+<p>Even after account deletion, Task-Ninja may retain certain information where permitted or required by law for legitimate business, security and compliance purposes.</p>
 <ul>
-<li>Legal and regulatory compliance.</li>
-
-<li>Fraud prevention and misuse detection.</li>
-
-<li>Security monitoring and platform protection.</li>
-
-<li>Investigation of abuse, violations, or suspicious activity.</li>
-
-<li>Dispute resolution and enforcement of platform policies.</li>
-
-<li>Verification and identity records including Aadhaar, PAN, selfie verification, and related documents submitted by providers.</li>
-
-<li>Preventing repeated abuse of free trials, subscriptions, promotional offers, or platform features.</li>
+<li>Account registration records.</li>
+<li>Provider verification records including Aadhaar, PAN, Live Selfie and address information.</li>
+<li>Subscription history.</li>
+<li>Security and technical logs.</li>
+<li>Deleted account records.</li>
+<li>Fraud prevention and duplicate account detection records.</li>
+<li>Legal and regulatory compliance records.</li>
 </ul>
 
-<p>
-Any retained information will be stored securely and accessed only where reasonably necessary for the purposes described above.
-</p>
-
 <h2>Important Information</h2>
-
-<p>
-Deleting your account does not automatically remove information that has already been shared with other users or service providers as part of completed or accepted bookings.
-</p>
-
-<p>
-Task-Ninja reserves the right to retain information where required by applicable laws, legal obligations, security requirements, fraud prevention measures, or legitimate business purposes.
-</p>
+<p>Deleting your account does not automatically remove information already shared outside the platform through direct telephone communication between users and providers.</p>
+<p>Task-Ninja does not control or delete information exchanged outside the application through telephone calls or other independent communication.</p>
+<p>Task-Ninja may retain certain information where required by law, security requirements, fraud prevention measures or legitimate business purposes.</p>
 
 <h2>User Acknowledgement</h2>
-
-<p>
-By requesting account deletion, you acknowledge and agree that certain information may continue to be retained as described in this policy and in the Task-Ninja Privacy Policy.
-</p>
+<p>By requesting account deletion, you acknowledge that certain information may continue to be retained as described in this policy and the Task-Ninja Privacy Policy.</p>
 
 <h2>Contact Support</h2>
+<p><strong>Email:</strong> taskninja.help@gmail.com</p>
 
-<p>
-If you require assistance regarding account deletion, please contact:
-</p>
-
-<p>
-<strong>Email:</strong> taskninja.help@gmail.com
-</p>
-
-<footer>
-Last Updated: June 2026
-</footer>
-
+<footer>Last Updated: July 2026</footer>
 </div>
-
 </body>
 </html>
