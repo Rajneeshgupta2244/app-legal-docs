@@ -16,48 +16,57 @@ h1,h2{color:#222}ul{padding-left:20px}li{margin-bottom:8px}
 <p>Task-Ninja is a technology platform that helps users discover nearby independent service providers. By creating an account or using the platform, you agree to these Terms.</p>
 
 <h2>1. Platform Nature</h2>
-<p>Task-Ninja is only a discovery platform. It does not provide services, employ providers, or act as an agent, contractor, partner or representative of any provider.</p>
+<p>Task-Ninja is only a technology and discovery platform. It does not provide the listed services and is not an employer, contractor, partner, representative or agent of any provider.</p>
 
 <h2>2. Direct Contact</h2>
-<p>The application displays the provider's name, service details and mobile number. When a user taps the Call button, the application only opens the device's default phone dialer with the provider's number pre-filled. Calls are placed through the user's own telecom network.</p>
-<p>Task-Ninja does not provide in-app calling, chat, messaging, call recording or call monitoring.</p>
+<p>The application displays only the provider's name, service name, service category and service location.</p>
+<p>The provider's registered mobile number is not displayed directly within the application.</p>
+<p>When a user taps the <strong>Call</strong> button, the application only opens the device's default phone dialer with the provider's registered mobile number automatically populated.</p>
+<p>The telephone call is placed through the user's own mobile device and telecom network.</p>
+<p>Task-Ninja does not provide, initiate, host, monitor, record, intercept or control telephone calls, chats or messages.</p>
 
 <h2>3. No Booking System</h2>
-<p>Task-Ninja does not provide booking, appointment scheduling, quotations, payment collection or service execution. Any communication, agreement or transaction takes place directly between the user and the provider.</p>
+<p>Task-Ninja does not provide booking, appointment scheduling, quotations, payment collection or service execution. Any communication, quotation, agreement, appointment, payment or dispute takes place directly between the user and the independent service provider.</p>
 
 <h2>4. User Accounts</h2>
 <ul>
-<li>Users register using basic account information.</li>
+<li>Users register using their first name, last name, email address, mobile number and password.</li>
 <li>Email and mobile verification may be required.</li>
-<li>Users are not required to submit Aadhaar, PAN or live selfie.</li>
+<li>Users are not required to submit Aadhaar, PAN or Live Selfie.</li>
 <li>The platform is free for users.</li>
+<li>Users are responsible for protecting their account credentials.</li>
 </ul>
 
 <h2>5. Provider Accounts</h2>
 <ul>
 <li>Providers must complete identity verification before listing services.</li>
-<li>Verification may require Aadhaar, PAN, live selfie, address and additional information.</li>
-<li>Verification is not a guarantee of service quality or provider conduct.</li>
+<li>Verification may require Aadhaar, PAN, Live Selfie and address details.</li>
+<li>Only approved providers may publish services.</li>
+<li>Verification is not a guarantee of identity, qualifications, licensing, conduct or service quality.</li>
 </ul>
 
 <h2>6. Subscription</h2>
-<p>Providers may receive a free trial. After the trial, each listed service may require a separate paid subscription. Subscription only enables listing visibility and does not guarantee calls, customers, work or earnings.</p>
+<p>Providers may receive a free trial where applicable. After the trial, each listed service may require a separate paid subscription. Subscription only enables service visibility and does not guarantee calls, customers, work or earnings.</p>
 
-<h2>7. Responsibilities</h2>
-<p>Providers are solely responsible for their listings, pricing, descriptions, experience, conduct and compliance with law. Users are responsible for their decisions when contacting providers.</p>
+<h2>7. Service Visibility</h2>
+<p>Providers may activate or deactivate their services. Only active services with a valid subscription, where applicable, may be displayed to users.</p>
 
-<h2>8. Contact Information</h2>
-<p>Users understand that the provider's contact number is displayed for direct communication. Providers understand that their registered contact number will be visible to users. Task-Ninja is not responsible for conversations, negotiations, commitments or disputes arising from direct communication.</p>
+<h2>8. Responsibilities</h2>
+<p>Providers are solely responsible for their listings, pricing, descriptions, conduct and compliance with applicable laws. Users are responsible for their own decisions when contacting providers.</p>
 
-<h2>9. Limitation of Liability</h2>
-<p>To the maximum extent permitted by applicable law, Task-Ninja shall not be responsible for services, service quality, pricing, payments, telephone conversations, agreements, delays, cancellations, fraud, property damage, financial loss or disputes between users and providers.</p>
+<h2>9. Contact Information</h2>
+<p>The provider's registered mobile number is not displayed directly in the application. It becomes available only when the user taps the Call button, which opens the device's default phone dialer.</p>
+<p>Any telephone conversation, quotation, appointment, agreement, payment, cancellation, service or dispute after the call is solely between the user and the provider.</p>
 
-<h2>10. Suspension</h2>
-<p>Task-Ninja may suspend or terminate accounts for fake documents, fraud, abuse, duplicate accounts, free-trial misuse or policy violations.</p>
+<h2>10. Limitation of Liability</h2>
+<p>To the maximum extent permitted by law, Task-Ninja is not responsible for telephone conversations, pricing, quotations, agreements, payments, service quality, cancellations, fraud, property damage, financial loss or disputes between users and providers.</p>
 
-<h2>11. Governing Law</h2>
-<p>These Terms are governed by the laws of India.</p>
+<h2>11. Suspension</h2>
+<p>Task-Ninja may suspend or terminate accounts for fake documents, fraud, abuse, duplicate accounts, misuse of free trials or violations of these Terms.</p>
 
-<h2>12. Contact</h2>
+<h2>12. Governing Law</h2>
+<p>These Terms are governed by the laws of India. Any dispute shall be subject to the jurisdiction of the competent courts having jurisdiction over the registered office of Task-Ninja unless otherwise required by applicable law.</p>
+
+<h2>13. Contact</h2>
 <p>Email: taskninja.help@gmail.com</p>
 </body></html>
